@@ -1,2 +1,2 @@
 # bookstore-pub
-online web application bookstore
+functional online web application bookstore
